@@ -1,1 +1,1 @@
-# Game1
+# Infinite-runner-game-promax-1
